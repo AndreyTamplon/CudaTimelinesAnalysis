@@ -1,0 +1,500 @@
+0.0,1.888,fock_frc_fock_force_180_gpu
+41.695,44.032,fock_frc_fock_force_180_gpu__1
+1173.373,1179.997,nonl_phase_654_gpu
+2376.859,2379.515,nonl_projxyz_1191_gpu
+2434.586,2595.994,nonl_projxyz_1197_gpu
+2650.458,2652.666,dis_proj_198_gpu
+2689.626,2690.778,dis_proj_198_gpu
+2728.314,2729.466,dis_proj_198_gpu
+2769.306,2770.426,dis_proj_198_gpu
+2807.45,2808.602,dis_proj_198_gpu
+2845.594,2846.746,dis_proj_198_gpu
+2882.266,2883.418,dis_proj_198_gpu
+2922.361,2923.481,dis_proj_198_gpu
+2960.058,2961.21,dis_proj_198_gpu
+2997.594,2998.746,dis_proj_198_gpu
+3036.761,3037.881,dis_proj_198_gpu
+3074.905,3076.025,dis_proj_198_gpu
+3111.929,3113.081,dis_proj_198_gpu
+3149.369,3150.521,dis_proj_198_gpu
+3188.889,3190.009,dis_proj_198_gpu
+3227.833,3228.985,dis_proj_198_gpu
+3264.697,3265.849,dis_proj_198_gpu
+3303.161,3304.281,dis_proj_198_gpu
+3340.825,3341.945,dis_proj_198_gpu
+3378.457,3379.609,dis_proj_198_gpu
+3415.417,3416.537,dis_proj_198_gpu
+3454.809,3455.929,dis_proj_198_gpu
+3491.992,3493.112,dis_proj_198_gpu
+3529.528,3530.648,dis_proj_198_gpu
+3566.648,3567.768,dis_proj_198_gpu
+3606.328,3607.448,dis_proj_198_gpu
+3644.504,3645.656,dis_proj_198_gpu
+3682.36,3683.48,dis_proj_198_gpu
+3721.24,3722.392,dis_proj_198_gpu
+3758.968,3760.12,dis_proj_198_gpu
+3796.76,3797.912,dis_proj_198_gpu
+3835.0,3836.12,dis_proj_198_gpu
+3875.352,3876.504,dis_proj_198_gpu
+3912.632,3913.752,dis_proj_198_gpu
+3950.232,3951.384,dis_proj_198_gpu
+3989.719,3990.871,dis_proj_198_gpu
+4027.767,4028.887,dis_proj_198_gpu
+4064.664,4065.815,dis_proj_198_gpu
+4102.167,4103.319,dis_proj_198_gpu
+4141.527,4142.679,dis_proj_198_gpu
+4178.935,4180.055,dis_proj_198_gpu
+4216.311,4217.463,dis_proj_198_gpu
+4255.479,4256.599,dis_proj_198_gpu
+4293.367,4294.519,dis_proj_198_gpu
+4331.159,4332.311,dis_proj_198_gpu
+4368.726,4369.846,dis_proj_198_gpu
+4408.855,4410.007,dis_proj_198_gpu
+4447.031,4448.182,dis_proj_198_gpu
+4484.79,4485.943,dis_proj_198_gpu
+4523.702,4524.854,dis_proj_198_gpu
+4561.142,4562.294,dis_proj_198_gpu
+4598.166,4599.318,dis_proj_198_gpu
+4634.966,4636.118,dis_proj_198_gpu
+4681.558,4682.678,dis_proj_198_gpu
+4720.406,4721.526,dis_proj_198_gpu
+4758.166,4759.318,dis_proj_198_gpu
+4795.926,4797.078,dis_proj_198_gpu
+4835.766,4836.918,dis_proj_198_gpu
+4873.558,4874.71,dis_proj_198_gpu
+4910.517,4911.637,dis_proj_198_gpu
+4949.269,4950.421,dis_proj_198_gpu
+4987.125,4988.277,dis_proj_198_gpu
+5024.373,5025.493,dis_proj_198_gpu
+5061.109,5062.229,dis_proj_198_gpu
+5100.629,5101.781,dis_proj_198_gpu
+5138.709,5139.861,dis_proj_198_gpu
+5176.501,5177.653,dis_proj_198_gpu
+5216.373,5217.493,dis_proj_198_gpu
+5253.877,5255.029,dis_proj_198_gpu
+5291.541,5292.693,dis_proj_198_gpu
+5329.621,5330.773,dis_proj_198_gpu
+5368.628,5369.748,dis_proj_198_gpu
+5942.579,5945.043,void copy_kernel<double2>(cublasCopyParams<double2>)
+5959.411,5960.947,void copy_kernel<double2>(cublasCopyParams<double2>)
+6008.371,6011.987,fftwav_229_gpu
+6042.995,6044.851,fftwav_259_gpu
+6087.027,6097.011,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6097.907,6104.019,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6104.627,6108.339,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6108.947,6111.539,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6113.043,6116.851,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6118.803,6121.651,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6165.491,6168.115,fftwav_229_gpu
+6195.923,6197.203,fftwav_259_gpu
+6229.651,6233.363,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6235.507,6238.035,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6240.691,6244.403,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6245.523,6248.051,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6250.387,6254.195,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6255.315,6258.099,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6273.235,6274.707,void copy_kernel<double2>(cublasCopyParams<double2>)
+6287.347,6288.819,void copy_kernel<double2>(cublasCopyParams<double2>)
+6327.507,6330.131,fftwav_229_gpu
+6357.779,6359.059,fftwav_259_gpu
+6389.619,6393.362,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6395.826,6398.386,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6400.851,6404.594,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6405.714,6408.274,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6410.674,6414.483,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6415.314,6418.034,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6457.106,6459.73,fftwav_229_gpu
+6486.482,6487.762,fftwav_259_gpu
+6518.194,6521.906,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6524.146,6526.706,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6529.17,6532.914,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6534.002,6536.53,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6538.802,6542.674,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6543.506,6546.29,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6560.882,6562.322,void copy_kernel<double2>(cublasCopyParams<double2>)
+6575.09,6576.466,void copy_kernel<double2>(cublasCopyParams<double2>)
+6616.018,6618.642,fftwav_229_gpu
+6646.29,6647.57,fftwav_259_gpu
+6677.682,6681.426,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6683.57,6686.13,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6690.162,6693.938,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6695.666,6698.194,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6700.946,6704.786,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6706.098,6708.914,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6748.882,6751.506,fftwav_229_gpu
+6777.969,6779.218,fftwav_259_gpu
+6810.033,6813.746,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6815.986,6818.545,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6820.785,6824.498,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6825.618,6828.21,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6830.545,6834.353,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6835.313,6838.097,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6852.882,6854.354,void copy_kernel<double2>(cublasCopyParams<double2>)
+6867.409,6868.754,void copy_kernel<double2>(cublasCopyParams<double2>)
+6908.081,6910.705,fftwav_229_gpu
+6937.425,6938.705,fftwav_259_gpu
+6968.977,6972.753,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6974.641,6977.201,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6979.889,6983.633,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6984.433,6986.993,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6989.361,6993.233,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+6994.001,6996.849,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7064.337,7066.993,fftwav_229_gpu
+7099.665,7100.913,fftwav_259_gpu
+7140.241,7144.017,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7146.513,7149.073,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7152.145,7155.889,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7157.393,7159.953,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7162.513,7166.385,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7168.017,7170.833,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7188.017,7189.489,void copy_kernel<double2>(cublasCopyParams<double2>)
+7205.361,7206.737,void copy_kernel<double2>(cublasCopyParams<double2>)
+7255.729,7258.353,fftwav_229_gpu
+7291.665,7292.945,fftwav_259_gpu
+7329.457,7333.232,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7335.632,7338.192,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7340.912,7344.657,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7345.872,7348.464,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7351.057,7354.896,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7356.081,7358.896,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7415.025,7417.648,fftwav_229_gpu
+7450.832,7452.08,fftwav_259_gpu
+7487.472,7491.184,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7493.456,7496.016,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7498.736,7502.512,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7504.272,7506.864,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7509.808,7513.616,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7514.416,7517.232,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7536.272,7537.744,void copy_kernel<double2>(cublasCopyParams<double2>)
+7553.744,7555.12,void copy_kernel<double2>(cublasCopyParams<double2>)
+7605.84,7608.464,fftwav_229_gpu
+7642.096,7643.344,fftwav_259_gpu
+7679.952,7683.664,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7686.224,7688.816,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7691.472,7695.216,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7696.912,7699.472,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7701.84,7705.68,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7707.184,7709.968,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7758.031,7760.656,fftwav_229_gpu
+7793.423,7794.672,fftwav_259_gpu
+7829.455,7833.167,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7837.232,7839.791,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7842.767,7846.544,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7848.016,7850.576,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7853.296,7857.103,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7858.031,7860.816,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+7879.471,7880.911,void copy_kernel<double2>(cublasCopyParams<double2>)
+7896.623,7898.0,void copy_kernel<double2>(cublasCopyParams<double2>)
+7947.663,7950.287,fftwav_229_gpu
+7983.471,7984.751,fftwav_259_gpu
+8019.119,8022.831,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8025.263,8027.887,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8030.543,8034.255,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8035.439,8038.031,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8040.719,8044.591,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8046.063,8048.847,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8102.383,8105.007,fftwav_229_gpu
+8137.775,8139.055,fftwav_259_gpu
+8173.871,8177.615,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8179.855,8182.447,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8185.103,8188.783,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8190.735,8193.327,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8196.143,8199.951,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8201.135,8203.919,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8221.327,8222.799,void copy_kernel<double2>(cublasCopyParams<double2>)
+8241.486,8242.863,void copy_kernel<double2>(cublasCopyParams<double2>)
+8291.63,8294.255,fftwav_229_gpu
+8327.759,8329.039,fftwav_259_gpu
+8363.598,8367.31,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8369.678,8372.27,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8374.894,8378.702,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8379.886,8382.446,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8385.55,8389.39,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8391.118,8393.87,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8446.862,8449.486,fftwav_229_gpu
+8483.246,8484.526,fftwav_259_gpu
+8519.63,8523.374,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8525.678,8528.238,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8530.99,8534.734,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8535.918,8538.51,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8541.262,8545.102,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8546.574,8549.39,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8566.222,8567.662,void copy_kernel<double2>(cublasCopyParams<double2>)
+8585.326,8586.702,void copy_kernel<double2>(cublasCopyParams<double2>)
+8635.758,8638.382,fftwav_229_gpu
+8671.182,8672.43,fftwav_259_gpu
+8707.118,8710.862,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8713.166,8715.726,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8718.702,8722.509,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8723.309,8725.87,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8728.974,8732.846,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8733.934,8736.686,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8792.749,8795.374,fftwav_229_gpu
+8829.069,8830.317,fftwav_259_gpu
+8865.165,8868.813,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8871.021,8873.581,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8876.557,8880.365,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8881.581,8884.173,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8886.765,8890.637,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8892.173,8894.989,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+8912.045,8913.485,void copy_kernel<double2>(cublasCopyParams<double2>)
+8931.341,8932.941,void copy_kernel<double2>(cublasCopyParams<double2>)
+8982.317,8984.941,fftwav_229_gpu
+9018.989,9020.237,fftwav_259_gpu
+9055.981,9059.725,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9065.421,9067.949,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9071.245,9075.053,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9076.621,9079.213,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9081.773,9085.581,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9087.245,9090.061,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9145.293,9147.917,fftwav_229_gpu
+9181.325,9182.573,fftwav_259_gpu
+9218.381,9222.189,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9224.268,9226.796,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9229.548,9233.293,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9235.021,9237.581,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9240.14,9243.98,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9245.453,9248.237,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9265.292,9266.732,void copy_kernel<double2>(cublasCopyParams<double2>)
+9282.764,9284.14,void copy_kernel<double2>(cublasCopyParams<double2>)
+9335.276,9337.868,fftwav_229_gpu
+9370.636,9371.916,fftwav_259_gpu
+9406.252,9409.996,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9412.204,9414.764,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9417.58,9421.324,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9681.996,9684.556,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9689.259,9693.099,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9695.276,9698.028,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9758.699,9761.355,fftwav_229_gpu
+9794.987,9796.267,fftwav_259_gpu
+9830.667,9834.347,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9836.971,9839.595,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9842.411,9846.219,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9847.691,9850.283,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9852.651,9856.523,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9858.155,9860.971,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+9878.571,9880.011,void copy_kernel<double2>(cublasCopyParams<double2>)
+9895.243,9896.619,void copy_kernel<double2>(cublasCopyParams<double2>)
+9950.027,9952.619,fftwav_229_gpu
+9985.291,9986.539,fftwav_259_gpu
+10020.619,10024.459,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10026.763,10029.291,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10032.171,10035.979,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10037.451,10040.011,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10042.475,10046.315,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10047.851,10050.635,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10103.691,10106.315,fftwav_229_gpu
+10140.682,10141.962,fftwav_259_gpu
+10177.963,10181.675,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10183.915,10186.443,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10189.259,10192.971,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10194.603,10197.163,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10199.658,10203.498,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10205.098,10207.883,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10225.642,10227.115,void copy_kernel<double2>(cublasCopyParams<double2>)
+10243.21,10244.554,void copy_kernel<double2>(cublasCopyParams<double2>)
+10296.874,10299.498,fftwav_229_gpu
+10333.194,10334.474,fftwav_259_gpu
+10368.586,10372.362,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10374.858,10377.418,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10380.586,10384.394,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10385.226,10387.786,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10390.506,10394.378,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10395.85,10398.666,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10452.842,10455.498,fftwav_229_gpu
+10488.522,10489.802,fftwav_259_gpu
+10524.394,10528.138,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10530.41,10533.034,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10536.138,10539.882,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10540.746,10543.274,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10546.282,10550.026,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10551.722,10554.57,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10571.274,10572.746,void copy_kernel<double2>(cublasCopyParams<double2>)
+10587.818,10589.322,void copy_kernel<double2>(cublasCopyParams<double2>)
+10641.034,10643.626,fftwav_229_gpu
+10676.458,10677.738,fftwav_259_gpu
+10712.745,10716.457,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10718.857,10721.45,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10724.074,10727.882,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10729.065,10731.625,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10734.282,10738.122,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10739.657,10742.474,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10796.969,10799.593,fftwav_229_gpu
+10833.225,10834.505,fftwav_259_gpu
+10869.129,10872.841,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10875.113,10877.673,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10880.553,10884.329,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10885.513,10888.105,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10890.793,10894.633,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10896.425,10899.241,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+10916.105,10917.577,void copy_kernel<double2>(cublasCopyParams<double2>)
+10933.289,10934.633,void copy_kernel<double2>(cublasCopyParams<double2>)
+11014.409,11017.033,fftwav_229_gpu
+11053.513,11054.761,fftwav_259_gpu
+11092.873,11096.617,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11099.945,11102.505,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11105.705,11109.512,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11111.305,11113.897,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11116.872,11120.712,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11122.665,11125.449,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11182.665,11185.288,fftwav_229_gpu
+11218.792,11220.04,fftwav_259_gpu
+11256.681,11260.424,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11263.048,11265.608,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11268.52,11272.296,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11273.833,11276.393,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11279.304,11283.112,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11284.616,11287.432,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+11424.872,11429.992,fft_and_gather_1015_gpu
+13038.533,13048.452,fock_set_gfac_vkpt_1234_gpu
+13088.164,13092.741,setunb_real_2019_gpu
+13099.813,13101.285,setunb_real_2033_gpu
+13134.18,13137.988,fock_set_gfac_vkpt_1300_gpu
+13168.069,13169.509,void copy_kernel<double2>(cublasCopyParams<double2>)
+13183.876,13185.092,void copy_kernel<double2>(cublasCopyParams<double2>)
+13229.188,13231.908,fftwav_229_gpu
+13261.572,13262.852,fftwav_259_gpu
+13300.004,13303.78,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13307.204,13309.732,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13313.028,13316.804,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13318.308,13320.868,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13323.556,13327.428,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13329.092,13331.908,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13378.788,13381.412,fftwav_229_gpu
+13410.372,13411.652,fftwav_259_gpu
+13483.62,13487.364,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13490.468,13492.996,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13496.228,13499.94,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13502.084,13504.676,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13507.492,13511.3,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13512.964,13515.748,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+13549.859,13576.259,pw_charge_trace_mu_acc_2139_gpu
+13600.003,13626.723,pw_charge_trace_mu_acc_2158_gpu
+13644.132,13646.915,augfast_depsum_two_bands_rholm_trace_mu_2027_gpu
+13689.091,13737.251,augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+13957.635,13985.859,augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+14040.739,14043.939,racc0mu_hf_acc_6145_gpu
+14086.658,14140.162,racc0mu_hf_acc_6158_gpu
+14156.482,14160.706,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14164.354,14167.682,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14170.114,14174.306,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14176.13,14179.394,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14182.434,14186.626,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14188.322,14191.874,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14260.354,14264.482,apply_gfac_weight_mu_4248_gpu
+14291.682,14295.938,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14298.498,14301.794,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14304.226,14308.354,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14309.858,14313.122,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14315.586,14319.81,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14321.314,14324.834,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+14408.738,14411.618,nonlr_rpromu_hf_acc_4117_gpu
+14451.33,14515.874,nonlr_rpromu_hf_acc_4131_gpu
+14516.769,14519.809,nonlr_rpromu_hf_acc_4190_gpu
+14547.298,14548.994,void copy_kernel<double2>(cublasCopyParams<double2>)
+14562.05,14563.233,void copy_kernel<double2>(cublasCopyParams<double2>)
+14577.953,14579.138,void copy_kernel<double2>(cublasCopyParams<double2>)
+14591.97,14593.153,void copy_kernel<double2>(cublasCopyParams<double2>)
+14605.217,14606.434,void copy_kernel<double2>(cublasCopyParams<double2>)
+14618.562,14619.745,void copy_kernel<double2>(cublasCopyParams<double2>)
+14632.385,14633.569,void copy_kernel<double2>(cublasCopyParams<double2>)
+14645.793,14646.977,void copy_kernel<double2>(cublasCopyParams<double2>)
+14659.201,14660.418,void copy_kernel<double2>(cublasCopyParams<double2>)
+14672.865,14674.049,void copy_kernel<double2>(cublasCopyParams<double2>)
+14686.337,14687.521,void copy_kernel<double2>(cublasCopyParams<double2>)
+14699.681,14700.865,void copy_kernel<double2>(cublasCopyParams<double2>)
+14715.201,14716.385,void copy_kernel<double2>(cublasCopyParams<double2>)
+14728.513,14729.697,void copy_kernel<double2>(cublasCopyParams<double2>)
+14742.241,14743.425,void copy_kernel<double2>(cublasCopyParams<double2>)
+14777.857,14779.137,nonlr_rpromu_hf_acc_4117_gpu
+14814.081,14899.233,nonlr_rpromu_hf_acc_4131_gpu
+14899.905,14901.441,nonlr_rpromu_hf_acc_4190_gpu
+14906.113,14907.393,void copy_kernel<double2>(cublasCopyParams<double2>)
+14920.065,14921.249,void copy_kernel<double2>(cublasCopyParams<double2>)
+14933.665,14934.849,void copy_kernel<double2>(cublasCopyParams<double2>)
+14947.073,14948.257,void copy_kernel<double2>(cublasCopyParams<double2>)
+14962.241,14963.425,void copy_kernel<double2>(cublasCopyParams<double2>)
+14976.097,14977.28,void copy_kernel<double2>(cublasCopyParams<double2>)
+14989.857,14991.072,void copy_kernel<double2>(cublasCopyParams<double2>)
+15003.104,15004.289,void copy_kernel<double2>(cublasCopyParams<double2>)
+15016.417,15017.601,void copy_kernel<double2>(cublasCopyParams<double2>)
+15030.016,15031.201,void copy_kernel<double2>(cublasCopyParams<double2>)
+15043.681,15044.896,void copy_kernel<double2>(cublasCopyParams<double2>)
+15057.345,15058.528,void copy_kernel<double2>(cublasCopyParams<double2>)
+15070.817,15072.0,void copy_kernel<double2>(cublasCopyParams<double2>)
+15084.705,15085.888,void copy_kernel<double2>(cublasCopyParams<double2>)
+15099.617,15100.8,void copy_kernel<double2>(cublasCopyParams<double2>)
+15171.616,15174.624,dllmm_trans_eccp_nl_fock_acc_1166_gpu
+15420.352,15448.128,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+15905.631,15925.279,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+16112.446,16118.046,fock_frc_fock_force_407_gpu
+16177.086,16178.398,nonlr_rpromu_hf_acc_4117_gpu
+16214.43,16298.59,nonlr_rpromu_hf_acc_4131_gpu
+16299.262,16300.766,nonlr_rpromu_hf_acc_4190_gpu
+16309.726,16311.006,void copy_kernel<double2>(cublasCopyParams<double2>)
+16324.222,16325.438,void copy_kernel<double2>(cublasCopyParams<double2>)
+16337.79,16339.006,void copy_kernel<double2>(cublasCopyParams<double2>)
+16351.326,16352.542,void copy_kernel<double2>(cublasCopyParams<double2>)
+16364.734,16365.95,void copy_kernel<double2>(cublasCopyParams<double2>)
+16378.462,16379.646,void copy_kernel<double2>(cublasCopyParams<double2>)
+16391.614,16392.83,void copy_kernel<double2>(cublasCopyParams<double2>)
+16405.118,16406.302,void copy_kernel<double2>(cublasCopyParams<double2>)
+16420.414,16421.63,void copy_kernel<double2>(cublasCopyParams<double2>)
+16434.045,16435.23,void copy_kernel<double2>(cublasCopyParams<double2>)
+16447.294,16448.477,void copy_kernel<double2>(cublasCopyParams<double2>)
+16460.542,16461.726,void copy_kernel<double2>(cublasCopyParams<double2>)
+16474.238,16475.421,void copy_kernel<double2>(cublasCopyParams<double2>)
+16487.901,16489.086,void copy_kernel<double2>(cublasCopyParams<double2>)
+16501.053,16502.238,void copy_kernel<double2>(cublasCopyParams<double2>)
+16573.917,16575.197,dllmm_trans_eccp_nl_fock_acc_1166_gpu
+16845.213,16865.437,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+17209.372,17229.82,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+17379.388,17383.356,fock_frc_fock_force_407_gpu
+17457.563,17458.843,nonlr_rpromu_hf_acc_4117_gpu
+17504.027,17589.531,nonlr_rpromu_hf_acc_4131_gpu
+17590.043,17591.611,nonlr_rpromu_hf_acc_4190_gpu
+17618.971,17620.283,void copy_kernel<double2>(cublasCopyParams<double2>)
+17636.155,17637.371,void copy_kernel<double2>(cublasCopyParams<double2>)
+17654.235,17655.451,void copy_kernel<double2>(cublasCopyParams<double2>)
+17670.651,17671.867,void copy_kernel<double2>(cublasCopyParams<double2>)
+17686.971,17688.155,void copy_kernel<double2>(cublasCopyParams<double2>)
+17703.451,17704.635,void copy_kernel<double2>(cublasCopyParams<double2>)
+17720.443,17721.627,void copy_kernel<double2>(cublasCopyParams<double2>)
+17738.971,17740.155,void copy_kernel<double2>(cublasCopyParams<double2>)
+17756.923,17758.139,void copy_kernel<double2>(cublasCopyParams<double2>)
+17773.627,17774.811,void copy_kernel<double2>(cublasCopyParams<double2>)
+17790.683,17791.899,void copy_kernel<double2>(cublasCopyParams<double2>)
+17809.115,17810.299,void copy_kernel<double2>(cublasCopyParams<double2>)
+17826.363,17827.547,void copy_kernel<double2>(cublasCopyParams<double2>)
+17843.547,17844.731,void copy_kernel<double2>(cublasCopyParams<double2>)
+17860.763,17861.947,void copy_kernel<double2>(cublasCopyParams<double2>)
+17938.683,17939.963,dllmm_trans_eccp_nl_fock_acc_1166_gpu
+18215.29,18235.738,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+18585.657,18605.881,dllmm_trans_eccp_nl_fock_acc_1170_gpu
+18759.929,18763.897,fock_frc_fock_force_407_gpu
+18824.857,18827.065,void copy_kernel<double2>(cublasCopyParams<double2>)
+18843.48,18844.857,void copy_kernel<double2>(cublasCopyParams<double2>)
+18899.576,18902.136,fftwav_229_gpu
+18937.913,18939.448,fftwav_259_gpu
+18982.136,18987.192,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+18989.304,18991.864,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+18995.16,18998.904,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19001.176,19003.736,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19007.384,19011.256,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19011.896,19014.68,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19066.904,19069.528,fftwav_229_gpu
+19104.696,19105.976,fftwav_259_gpu
+19158.648,19162.328,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19165.016,19167.608,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19170.296,19174.04,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19175.736,19178.296,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19180.952,19184.728,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19186.52,19189.304,void regular_fft<2u, 2u, 256u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)
+19257.208,19292.664,pw_charge_trace_mu_acc_2139_gpu
+19314.136,19350.967,pw_charge_trace_mu_acc_2158_gpu
+19360.472,19362.807,augfast_depsum_two_bands_rholm_trace_mu_2027_gpu
+19406.2,19436.12,augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+19458.552,19486.775,augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+19539.639,19541.175,racc0mu_hf_acc_6145_gpu
+19591.831,19639.831,racc0mu_hf_acc_6158_gpu
+19666.455,19670.615,void regular_fft<7u, 7u, 64u, (padding_t)1, (twiddle_t)0, (loadstore_modifier_t)2, (layout_t)1, unsigned int, double>(kernel_arguments_t<unsigned int>)

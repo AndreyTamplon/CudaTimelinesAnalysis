@@ -1,0 +1,11 @@
+ALTER TABLE CUPTI_ACTIVITY_KIND_RUNTIME ADD COLUMN name TEXT;
+ALTER TABLE CUPTI_ACTIVITY_KIND_RUNTIME ADD COLUMN kernelName TEXT;
+
+UPDATE CUPTI_ACTIVITY_KIND_RUNTIME SET kernelName =
+    (SELECT value FROM StringIds
+    JOIN CUPTI_ACTIVITY_KIND_KERNEL AS cuda_gpu
+        ON cuda_gpu.shortName = StringIds.id
+        AND CUPTI_ACTIVITY_KIND_RUNTIME.correlationId = cuda_gpu.correlationId);
+
+UPDATE CUPTI_ACTIVITY_KIND_RUNTIME SET name =
+    (SELECT value FROM StringIds WHERE nameId = StringIds.id);

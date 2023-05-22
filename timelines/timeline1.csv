@@ -1,0 +1,97 @@
+10715.27, 10716.742, 'void copy_kernel<double2>cublasCopyParams<double2>)
+10736.678, 10738.022, 'void copy_kernel<double2>cublasCopyParams<double2>)
+10796.969, 10799.593, 'fftwav_229_gpu
+10833.225, 10834.505, 'fftwav_259_gpu
+10864.539, 10867.195, 'fftwav_229_gpu
+10918.171, 10919.419, 'fftwav_259_gpu
+10988.582, 10991.205, 'fftwav_229_gpu
+11014.409, 11017.033, 'fftwav_229_gpu
+11094.65, 11097.306, 'fftwav_229_gpu
+11131.045, 11132.485, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11149.573, 11150.949, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11182.665, 11185.288, 'fftwav_229_gpu
+11274.553, 11277.178, 'fftwav_229_gpu
+11322.009, 11323.257, 'fftwav_259_gpu
+11404.709, 11407.332, 'fftwav_229_gpu
+11406.937, 11408.537, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11423.129, 11424.473, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11424.872, 11429.992, 'fft_and_gather_1015_gpu
+11454.436, 11455.685, 'fftwav_259_gpu
+11478.201, 11480.825, 'fftwav_229_gpu
+11525.657, 11526.905, 'fftwav_259_gpu
+11546.372, 11547.812, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11564.548, 11565.924, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11671.896, 11674.52, 'fftwav_229_gpu
+11718.488, 11719.736, 'fftwav_259_gpu
+11760.164, 11764.004, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11766.084, 11768.708, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11771.844, 11775.652, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11777.304, 11779.928, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11783.48, 11787.288, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11789.784, 11792.6, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11811.768, 11813.208, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11829.592, 11830.968, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11886.487, 11889.111, 'fftwav_229_gpu
+11948.471, 11949.751, 'fftwav_259_gpu
+11957.4, 11960.024, 'fftwav_229_gpu
+12013.439, 12014.719, 'fftwav_259_gpu
+12051.112, 12053.736, 'fftwav_229_gpu
+12087.368, 12088.648, 'fftwav_259_gpu
+12128.056, 12130.68, 'fftwav_229_gpu
+12171.512, 12172.792, 'fftwav_259_gpu
+12204.604, 12207.228, 'fftwav_229_gpu
+12248.06, 12249.34, 'fftwav_259_gpu
+12272.825, 12275.449, 'fftwav_229_gpu
+12322.505, 12323.785, 'fftwav_259_gpu
+12352.152, 12354.776, 'fftwav_229_gpu
+12396.488, 12397.768, 'fftwav_259_gpu
+12427.8, 12430.424, 'fftwav_229_gpu
+12471.256, 12472.536, 'fftwav_259_gpu
+12513.976, 12515.256, 'fftwav_229_gpu
+12557.432, 12558.712, 'fftwav_259_gpu
+12590.524, 12593.148, 'fftwav_229_gpu
+12633.98, 12635.26, 'fftwav_259_gpu
+12656.248, 12658.872, 'fftwav_229_gpu
+12700.584, 12701.864, 'fftwav_259_gpu
+12724.824, 12727.448, 'fftwav_229_gpu
+12769.16, 12770.44, 'fftwav_259_gpu
+12793.912, 12796.536, 'fftwav_229_gpu
+12838.248, 12839.528, 'fftwav_259_gpu
+12862.488, 12865.112, 'fftwav_229_gpu
+13038.533, 13048.452, 'fock_set_gfac_vkpt_1234_gpu'
+13088.164, 13092.741, 'setunb_real_2019_gpu'
+13099.813, 13101.285, 'setunb_real_2033_gpu'
+13134.18, 13137.988, 'fock_set_gfac_vkpt_1300_gpu'
+13168.069, 13169.509, 'void copy_kernel<double2>cublasCopyParams<double2>)'
+13183.876, 13185.092, 'void copy_kernel<double2>cublasCopyParams<double2>)'
+13378.788, 13381.412, 'fftwav_229_gpu'
+13410.372, 13411.652, 'fftwav_259_gpu'
+13549.859, 13576.259, 'pw_charge_trace_mu_acc_2139_gpu
+13600.003, 13626.723, 'pw_charge_trace_mu_acc_2158_gpu
+13644.132, 13646.915, 'augfast_depsum_two_bands_rholm_trace_mu_2027_gpu
+13689.091, 13737.251, 'augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+13957.635, 13985.859, 'augfast_depsum_two_bands_rholm_trace_mu_2031_gpu
+14040.739, 14043.939, 'racc0mu_hf_acc_6145_gpu
+14086.658, 14140.162, 'racc0mu_hf_acc_6158_gpu
+14260.354, 14264.482, 'apply_gfac_weight_mu_4248_gpu
+14408.738, 14411.618, 'nonlr_rpromu_hf_acc_4117_gpu
+14451.33, 14515.874, 'nonlr_rpromu_hf_acc_4131_gpu
+14516.769, 14519.809, 'nonlr_rpromu_hf_acc_4190_gpu
+14547.298, 14548.994, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14562.05, 14563.233, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14577.953, 14579.138, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14591.97, 14593.153, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14605.217, 14606.434, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14618.562, 14619.745, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14632.385, 14633.569, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14645.793, 14646.977, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14659.201, 14660.418, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14672.865, 14674.049, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14686.337, 14687.521, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14699.681, 14700.865, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14715.201, 14716.385, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14728.513, 14729.697, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14742.241, 14743.425, 'void copy_kernel<double2>cublasCopyParams<double2>)
+14777.857, 14779.137, 'nonlr_rpromu_hf_acc_4117_gpu
+14814.081, 14899.233, 'nonlr_rpromu_hf_acc_4131_gpu
+14899.905, 14901.441, 'nonlr_rpromu_hf_acc_4190_gpu

@@ -1,0 +1,56 @@
+11478.201, 11480.825, 'fftwav_229_gpuo
+11525.657, 11526.905, 'fftwav_259_gpuo
+11546.372, 11547.812, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11564.548, 11565.924, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11671.896, 11674.52, 'fftwav_229_gpuo
+11718.488, 11719.736, 'fftwav_259_gpuo
+11760.164, 11764.004, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11766.084, 11768.708, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11771.844, 11775.652, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11777.304, 11779.928, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11783.48, 11787.288, 'void regular_fft<7u, 7u, 64u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11789.784, 11792.6, 'void regular_fft<2u, 2u, 256u, padding_t)1, twiddle_t)0, loadstore_modifier_t)2, layout_t)1, unsigned int, double>kernel_arguments_t<unsigned int>)
+11811.768, 11813.208, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11829.592, 11830.968, 'void copy_kernel<double2>cublasCopyParams<double2>)
+11886.487, 11889.111, 'fftwav_229_gpuo
+11948.471, 11949.751, 'fftwav_259_gpuo
+11957.4, 11960.024, 'fftwav_229_gpuo
+12013.439, 12014.719, 'fftwav_259_gpuo
+12051.112, 12053.736, 'fftwav_229_gpuo
+12087.368, 12088.648, 'fftwav_259_gpuo
+12128.056, 12130.68, 'fftwav_229_gpuo
+12171.512, 12172.792, 'fftwav_259_gpuo
+12204.604, 12207.228, 'fftwav_229_gpuo
+12248.06, 12249.34, 'fftwav_259_gpuo
+12272.825, 12275.449, 'fftwav_229_gpuo
+12322.505, 12323.785, 'fftwav_259_gpuo
+12352.152, 12354.776, 'fftwav_229_gpuo
+12396.488, 12397.768, 'fftwav_259_gpuo
+12427.8, 12430.424, 'fftwav_229_gpuo
+12471.256, 12472.536, 'fftwav_259_gpuo
+12513.976, 12515.256, 'fftwav_229_gpuo
+12557.432, 12558.712, 'fftwav_259_gpuo
+12590.524, 12593.148, 'fftwav_229_gpuo
+12633.98, 12635.26, 'fftwav_259_gpuo
+12656.248, 12658.872, 'fftwav_229_gpuo
+12700.584, 12701.864, 'fftwav_259_gpuo
+12724.824, 12727.448, 'fftwav_229_gpuo
+12769.16, 12770.44, 'fftwav_259_gpuo
+12793.912, 12796.536, 'fftwav_229_gpuo
+12838.248, 12839.528, 'fftwav_259_gpuo
+12862.488, 12865.112, 'fftwav_229_gpuo
+13038.533, 13048.452, 'fock_set_gfac_vkpt_1234_gpuo'
+13088.164, 13092.741, 'setunb_real_2019_gpuo'
+13099.813, 13101.285, 'setunb_real_2033_gpuo'
+13134.18, 13137.988, 'fock_set_gfac_vkpt_1300_gpuo'
+13168.069, 13169.509, 'void copy_kernel<double2>cublasCopyParams<double2>)'
+13183.876, 13185.092, 'void copy_kernel<double2>cublasCopyParams<double2>)'
+13378.788, 13381.412, 'fftwav_229_gpuo'
+13410.372, 13411.652, 'fftwav_259_gpuo'
+13549.859, 13576.259, 'pw_charge_trace_mu_acc_2139_gpuo
+13600.003, 13626.723, 'pw_charge_trace_mu_acc_2158_gpuo
+13644.132, 13646.915, 'augfast_depsum_two_bands_rholm_trace_mu_2027_gpuo
+13689.091, 13737.251, 'augfast_depsum_two_bands_rholm_trace_mu_2031_gpuo
+13957.635, 13985.859, 'augfast_depsum_two_bands_rholm_trace_mu_2031_gpuo
+14040.739, 14043.939, 'racc0mu_hf_acc_6145_gpuo
+14086.658, 14140.162, 'racc0mu_hf_acc_6158_gpuo
